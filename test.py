@@ -1,7 +1,7 @@
-s = "Visualize Linear Relationship"
+s = "Create Dummy Data"
 
 s = s.split(' ')
 
-s = "12_" + "_".join(s)
+s = "20_" + "_".join(s)
 
 print(s)
