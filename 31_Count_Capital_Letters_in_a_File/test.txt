@@ -1,0 +1,2 @@
+I like Python because Python is very easy
+and PHP because PHP is good for web deve.
